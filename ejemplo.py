@@ -50,5 +50,5 @@ La expresión queda:
 """
 
 
-resultado = (3 + 2) * 5 > 20 and not (10 % 3 == 0)
-print("El resultado de la expresión: (3 + 2) * 5 > 20 and not (10 % 3 == 0) :",  resultado)
+resultado = (7 + 5) * 10 >= 100 and not (12 % 4 == 0)
+print("El resultado de la expresión: (7 + 5) * 10 >= 100 and not (12 % 4 == 0) es:",  resultado)
